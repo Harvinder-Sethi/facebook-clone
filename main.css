@@ -23,7 +23,7 @@ height: 30px;
   height: 900px;
   overflow: auto;
   background-color: #e9ebee;
-  margin-right: -30px;
+
 
 }
 #menu::-webkit-scrollbar{
@@ -34,7 +34,7 @@ height: 30px;
   height: 900px;
   overflow: auto;
   background-color: #e9ebee;
-  margin-left: -30px;
+
 }
 #sidebar::-webkit-scrollbar{
   display:none;
@@ -106,4 +106,10 @@ margin-bottom: 0px;
   max-height: 40px;
   max-width: 40px;
   padding-right: 8px;
+}
+.input-box{
+float: right;
+}
+.like{
+  margin-top: -5px;
 }
