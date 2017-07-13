@@ -113,3 +113,8 @@ float: right;
 .like{
   margin-top: -5px;
 }
+.comment-time
+{
+  padding-left: 40px;
+  margin-top: -10px;
+}
